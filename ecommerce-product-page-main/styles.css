@@ -1,0 +1,103 @@
+#equal-to{
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+#logo{
+    height: 30px;
+}
+#main-text{
+    display: flex;
+    margin: 20px;
+   
+    
+}
+.header-image{
+    width: 30px;
+  height: 30px;
+}
+#mobile-illustration{
+    width: 100%;
+
+}
+#trolley{
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: 20px;
+}
+.arrows{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    background-color: white;
+    padding: 20px;
+}
+.main-image{
+    position: relative;
+}
+#next-arrow{
+    left: unset;
+    right: 20px;
+}
+#sneak{
+    color: orange;
+    margin-left: 20px;
+    font-size: 70px;
+}
+#fall{
+    font-size: 140px;
+}
+#description{
+    font-size: 75px;
+    color: grey;
+}
+.price{
+    font-size: 60px;
+    font-weight: bold;
+}
+#discount{
+    color: orange;
+    padding: 10px;
+    background-color:hsl(25, 100%, 94%);
+    border: none;
+    font-size:25px ;
+    margin-bottom: 10px;
+    
+
+
+}
+.cart{
+    width:100vw;
+    font-size:70px;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.inc{
+    width:100vw;
+    font-size:70px;
+    background-color:rgb(238, 233, 233);
+    border: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.minus{
+color: orange;
+margin-right: 700px;
+}
+.plus{
+    color: orange;
+    margin-left: 700px;
+    }
